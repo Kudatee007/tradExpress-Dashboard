@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adb4ad34.css",
+    "main.js": "/static/js/main.eb283197.js",
+    "static/js/787.93c19266.chunk.js": "/static/js/787.93c19266.chunk.js",
+    "static/media/bitimg.svg": "/static/media/bitimg.9b14551aac3a99cfeb830d5abca46493.svg",
+    "static/media/ethimg.svg": "/static/media/ethimg.492a8db177b633b93c608edb21c840c2.svg",
+    "static/media/usdtimg.svg": "/static/media/usdtimg.030593c939be207ce0a5cabaf2a35153.svg",
+    "static/media/bitIcon.svg": "/static/media/bitIcon.635b761fec951bbae0380950ef42862b.svg",
+    "static/media/setting.svg": "/static/media/setting.1a00d23f3c23b776ce72599a2b10b836.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bank-building@2x 1.svg": "/static/media/bank-building@2x 1.2f13a000436f2c3678f82bf56c001f36.svg",
+    "static/media/transaction.svg": "/static/media/transaction.0b3ab7b333e66cc93bfe1a27d4565df5.svg",
+    "static/media/blog.svg": "/static/media/blog.52b8b50df7e009f0474907350880a47f.svg",
+    "static/media/wallet.svg": "/static/media/wallet.04244428b81c6290afdeaafe282e3042.svg",
+    "static/media/exchange.svg": "/static/media/exchange.1564447def66a0e175edbfa00a0e20cb.svg",
+    "static/media/bell.svg": "/static/media/bell.7c55eadc6fb10ee1abedfd1636b327ba.svg",
+    "static/media/profile.svg": "/static/media/profile.49ee21516fc71a1edea40f0253f3eec4.svg",
+    "static/media/dash.svg": "/static/media/dash.bc4b961f4f4289ce02214db41e33851f.svg",
+    "static/media/slash.svg": "/static/media/slash.f0d13fde4f31fb375dc58e36ca164270.svg",
+    "index.html": "/index.html",
+    "static/media/learn.svg": "/static/media/learn.e00d48d329a0ac9a76b190dc0423519d.svg",
+    "static/media/ethIcon.svg": "/static/media/ethIcon.23b5667f97dd82eb86454aa4c42ec5f5.svg",
+    "static/media/emptyimg.svg": "/static/media/emptyimg.59b57145cc247a1ff1fc39d655fdc9dc.svg",
+    "main.adb4ad34.css.map": "/static/css/main.adb4ad34.css.map",
+    "main.eb283197.js.map": "/static/js/main.eb283197.js.map",
+    "787.93c19266.chunk.js.map": "/static/js/787.93c19266.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb4ad34.css",
+    "static/js/main.eb283197.js"
+  ]
+}
